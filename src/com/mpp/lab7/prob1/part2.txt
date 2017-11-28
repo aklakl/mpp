@@ -1,0 +1,22 @@
+b) The output is false because the code checks for name and salary only. 
+   It doesnot check the instance wheather it is from same class or not. And it doesnot override for hash code.
+
+
+c) The output is false because the code checks for name and salary and also instance from same class but
+   does not override for hashcode.
+
+
+d) The output is false because hash code need to be checked inside equal method.
+
+
+
+
+e)
+ i) when type d is a class:
+   make the non implemented in interface as default so that it can be override in the class
+       
+
+
+  ii) when type d is a interface;
+     make the non implemented method as abstract and it can be extend and implemented in child class;
+      

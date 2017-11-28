@@ -1,0 +1,25 @@
+a.Name two differences between imperative and functional programming.
+
+ANS --> Imperative programming uses a sequence of statement to reach to any certain goal whereas 
+functional programming is a pure functional approach. Many lines in imperative changes the 
+state of program but in functional approach all those are replaced by single functional call.
+
+
+
+ 
+ b. Explain the meaning of declarative programming. Give an example.
+Functional programming is declarative programming. Focus what to do, not how to do.
+
+ANS--> Declarative programming is a programming style where it is responsible for building the structure and
+ elements of computer programs ,that expresses the logic of a computation without describing 
+ its control flow.
+ 
+ Example: 
+ 
+ Function<Integer,Integer> add1 = x -> x + 1;
+ 
+ Here, we have used declarative programming using functional approach  where an integer is passed and returned with 1 increased.
+ 
+ 
+ c.
+ 

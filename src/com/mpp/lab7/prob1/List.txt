@@ -1,0 +1,15 @@
+ArrayList implemented interfaces are
+
+1) Cloneable
+2) Iterable
+3) Serializable
+4) RandomAccess
+5) Collection
+6) List
+
+
+
+
+ArrayList extends is
+
+1) AbstractList
